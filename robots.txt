@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://sour163.github.io/-tayga-zlatoust.github.io/sitemap.xml
